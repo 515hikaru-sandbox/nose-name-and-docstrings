@@ -7,7 +7,7 @@ setup(
     keywords='nose testing',
     author='515hikaru',
     author_email='karanodeny@gmail.com',
-    url='https://github.com/515hikaru/nose-name-and-docstring',
+    url='https://github.com/515hikaru/nose-name-and-docstrings',
     license='MIT',
     py_modules=['nose_name_and_docstrings'],
     zip_safe=False,
