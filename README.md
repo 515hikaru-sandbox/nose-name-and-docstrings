@@ -1,0 +1,1 @@
+# nose-custom-docstring
