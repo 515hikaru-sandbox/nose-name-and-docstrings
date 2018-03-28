@@ -17,6 +17,6 @@ class NameWithDocstrings(Plugin):
         """Show test docstring or test name"""
         test_name = str(test)
         default = test.test._testMethodDoc
-        if default is not None:
+        if default:
             return '{}: {}'.format(test_name, default.strip())
         return test_name

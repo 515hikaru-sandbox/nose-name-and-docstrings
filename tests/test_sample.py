@@ -13,3 +13,7 @@ class TestSample(TestCase):
 
     def test_no_docstring(self):
         self.assertEqual(1, 1)
+
+    def test_empty_docstring(self):
+        """"""
+        self.assertEqual(1, 1)
