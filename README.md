@@ -1,4 +1,4 @@
-# nose-custom-docstring
+# nose-name-and-docstring
 
 # Usage
 
